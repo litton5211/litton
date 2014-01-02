@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+
+body {
+  min-height: 2000px;
+  padding-top: 36px;
+  font-size: 12px;
+}
+#navbar  {
+	 min-height: 36px;
+}
+.navbar  {
+	  margin-bottom: 0px;
+	  font-size: 14px;
+}
+#navbar .navbar-nav > li > a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    line-height: 16px;
+}
+#navbar .navbar-toggle {
+	 margin-bottom: 5px;
+	 margin-top: 5px;
+	 padding: 4px 10px;
+}
+#navbar .nav-wrap{
+	min-height: 30px;
+	padding-top: 8px;
+}
+.navbar-second {
+    background-color: #F3F5F4;
+    border-color: #F3F5F4;
+}
+#footer {
+    padding: 40px 0;
+    vertical-align: top;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+#footer dl dt, #footer dl dd{
+    padding: 10px 0;
+    
+}
+.section{
+	background: none repeat scroll 0 0 #F3F5F4;
+    border-bottom: 1px solid #EBEEEC;
+    padding:  10px 0;
+}
+.channel-item .likes {
+    background: none repeat scroll 0 0 #FAE9DA;
+    color: #CA6445;
+    float: left;
+    font-size: 13px;
+    line-height: 1.3;
+    margin-right: 19px;
+    padding: 8px 0;
+    text-align: center;
+    width: 48px;
+}
+
+.channel-item .bd {
+    border-bottom: 1px solid #E5E5E5;
+    padding-bottom: 10px;
+}
