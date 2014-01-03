@@ -1,6 +1,6 @@
 
 <?php
-$var = 0;
+$var = 10;
 
 // 结果为 true，因为 $var 为空
 if (empty($var)) {  
